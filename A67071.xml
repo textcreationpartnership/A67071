@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvork of affliction opened in a sermon, preached at the funerall. of Mrs Elisabeth Harvey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67071</idno>
+            <idno type="STC">Wing W3582A</idno>
+            <idno type="STC">ESTC R221053</idno>
+            <idno type="EEBO-CITATION">99832433</idno>
+            <idno type="PROQUEST">99832433</idno>
+            <idno type="VID">36906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2143:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvork of affliction opened in a sermon, preached at the funerall. of Mrs Elisabeth Harvey.</title>
+                  <author>Whitlock, John, 1625-1709.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year. 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing gives 1668 as publication date.</note>
+                  <note>Reproduction of the original in the Exeter College Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harvey, Elisabeth --  Early works to 1800.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36906:1" rendition="simple:additions"/>
+            <p>THE WORK OF AFFLICTION Opened in a Sermon. preached at the Funerall. OF M<hi rend="sup">RS</hi> ELISABETH HARVEY.</p>
+            <p>
+               <hi>LONDON.</hi> Printed in the year 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:36906:2"/>
+            <pb n="1" facs="tcp:36906:2" rendition="simple:additions"/>
+            <head>The Work of Affliction.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Cor. 4.17.</hi>
+                  </bibl>
+                  <p>For our light affliction, which is but for a moment, worketh for us a far more exceeding and Eternal weight of Glory.</p>
+                  <p>
+                     <bibl>
+                        <hi>18</hi>
+                     </bibl> While wee look not at the things which are ſeen, but at the things which are not ſeen.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His whole chapter ſpend's it ſelf in three things: 1 Firſt of all, the A<g ref="char:EOLhyphen"/>poſtle ſet's forth his <hi>diligence</hi> and <hi>faithfulneſs</hi> in the Miniſterie of the Goſpell: <hi>Wee faint not</hi> v. 1. there is his diligence:
+<note place="margin">Suum Miniſte<g ref="char:EOLhyphen"/>rium Corin<g ref="char:EOLhyphen"/>thiis co<g ref="char:cmbAbbrStroke">̄</g>men<g ref="char:EOLhyphen"/>datum eſſe vult, maximè propter adver ſarios ſuos, &amp; obtrectatores pſeud apoſt. <hi>Eſtius. Chryſ.</hi> 8. <hi>Hom.</hi> in loc.</note> 
+               <hi>Wee preach not our ſelves, but Chriſt Jeſus the Lord,</hi> v. 5. there is his faithfullneſs. Nor doth this <hi>ſelf-praiſe,</hi> (oppoſed to the detractions of ſom malignant ſpirits too too active in thoſe dayes) misbecom the humili<g ref="char:EOLhyphen"/>tie of an Apoſtle: eſpecially his expreſſions being ſeaſoned and ſweetned with ſo much <hi>pietie,</hi> and <hi>mo<g ref="char:EOLhyphen"/>deſtie: his pietie</hi> appeareth in that hee attributeth all to
+<pb n="2" facs="tcp:36906:3"/>mercie:
+<note place="margin">Hemingius in loc.</note> that he had this Miniſterie, it is a mercie: that he fainted not in this Miniſterie, it is likewiſe a mercie: his <hi>modeſtie</hi> is manifeſt, in that hee doth not ſingle out himſelf as the ſolitarie ſubject of this commendation, but pointeth at others,
+<note place="margin">2 Cor. 12.18.</note> who <hi>wrought the work of the Lord even as he did,
+<note place="margin">Ideò ſcribit haec omnia numero plu<g ref="char:EOLhyphen"/>rali. <hi>Eſtius.</hi>
+                  </note> &amp; walked in the ſame Spirit, &amp; in the ſame ſteps with him.</hi> Therefore is it that he ſpeaketh <hi>plurally; wee</hi> faint not, <hi>wee</hi> preach not our ſelvs.</p>
+            <p n="2">2 In the ſecond place hee removeth the ſcandall <hi>of the Croſs,</hi> which is the conſtant <hi>Genius</hi> of the Goſpell: inſomuch as the preaching of the Goſpell may for this cauſe (among others) bee called the preaching of the Croſs. when <hi>Melanchou</hi> had ſaid that the preach<g ref="char:EOLhyphen"/>ing of the Goſpell was <hi>Ars artium, ſcientia ſcientiarum, the Art of Arts, the Science of Sciences: Luther</hi> told him, he might rather ſay, that it was <hi>miſeria miſeriarum, the miſerie of miſeries;</hi> yet is not the miſerie ſo great as to overwhelm us; nor the Croſs ſo heavie as to ſink us: for ſaith the Apoſtle, <hi>though wee bee troubled, and troubled on everie ſide, yet not diſtreſſed.</hi> v 8.</p>
+            <p n="3">3 In the third place hee furniſheth us with ſundry <hi>Arguments</hi> exciting us; which (if you pleaſ) you may likewiſe call <hi>grounds</hi> of comfort, enabling us <hi>to bear the Croſs,</hi> with patience, alacrity and chearfullneſs. Two of theſe arguments you have in the two verſes I have read unto you, which I am defired to recommend to you at this time, becauſ the worthy Gentlewoman, whoſe funerall wee now attend on, made great uſe of them, and received much comfort from them in her life time.</p>
+            <pb n="3" facs="tcp:36906:3"/>
+            <p>Her Life was a <hi>checkerworth</hi> of proſperity &amp; adverſity; in this ſhee <hi>fainted not,</hi> becauſ here was her <hi>cordiall,</hi> ſhee knew that her <hi>afflictions were light</hi> and tranſitory, and that they <hi>wrought for her, a farr more</hi> exceeding, and eternal weight of Glory: in that <hi>ſhee ſwelled not,</hi> becauſ here was her <hi>Antidote, Shee looked not at the things that are ſeen, but at the things that are not ſeen.</hi> Be<g ref="char:EOLhyphen"/>ſides the two arguments in the text, there bee divers o<g ref="char:EOLhyphen"/>thers (as I hinted) in the Context, they are cloſely and artificially woven together: the time will not per<g ref="char:EOLhyphen"/>mit mee to unravel them. Only this I would note, that this <hi>congeries,</hi> this <hi>heap</hi> of arguments, to confirm our Faith and Patience under the Croſs, doth inſinuate a propenſitie in our nature to ſhrink from it; Weak<g ref="char:EOLhyphen"/>neſs in our nature ready to ſink under it. A man will not put himſelf to the coſt and trouble to underprop an houſ, till hee diſcover ſomthing, that maketh him diſtruſt the ſtrength of it, and fear it's ruine.
+<note place="margin">2 Cor. 5.1.</note> The Apoſtle no doubt had obſerved that <hi>our earthly houſ</hi> hath a bowing wall, and that cauſeth him to pitch up theſe buttreſſes againſt it.
+<note place="margin">Prov. 24.10.</note> 
+               <hi>If thou faint in the day of adverſity, thy ſtrength is ſmal,</hi>
+               <note place="margin">Rom. 15.4.</note> ſaith the wiſe So<g ref="char:EOLhyphen"/>lomon. So ſmal would the ſtrength of every living man bee found to bee, if hee were not ſhoared up <hi>by the pati<g ref="char:EOLhyphen"/>ence and comfort of the Scriptures.</hi> Wee can bee con<g ref="char:EOLhyphen"/>tent to ſit down with Chriſt in <hi>Tabor,</hi>
+               <note place="margin">Corregnare cupiunt, ſed non compati. <hi>Bern.</hi> in loc.</note> the mount of his Transfiguration, and ſay <hi>it is good for us to bee here.</hi> But if wee once ſee him on <hi>Calvarie,</hi> the mount of his <hi>paſ<g ref="char:EOLhyphen"/>ſion,</hi> then wee think it high time to <hi>forſake</hi> him, at leaſt a point of prudence to <hi>ſtand aloof</hi> from him: then is
+<pb n="4" facs="tcp:36906:4"/>baſe, cowardly, corrupt nature ready to crie out with the ſervant of the man of God,
+<note place="margin">2 Kings. 6.19.</note> when hee ſaw the City encompaſſed with Horſes and Chariots, <hi>Alas, my Maſter how ſhall wee do?</hi> or with Peter to Chriſt, <hi>Maſter pitie thy ſelf;</hi> Chriſt's <hi>harmes</hi> are not the leſs for thy <hi>hazards;</hi> neither will the <hi>ſervice</hi> thou doeſt un<g ref="char:EOLhyphen"/>to Chriſt, bee the greater by thy <hi>ſufferings</hi> for him. is it not good ſleeping in a whole ſkin? this I ſuppoſe is the language of weak <hi>nature,</hi> till it bee both better inſtructed, and fortified by <hi>Grace.</hi> But to com to the <hi>Text.</hi> Therein I have told you, wee finde two argu<g ref="char:EOLhyphen"/>ments of comfort to afflicted Saints.</p>
+            <p n="1">1. The firſt is drawn from the <hi>glorious effect</hi> of their afflictions: they work their Glory, and here the com<g ref="char:EOLhyphen"/>fort is much advanced 1. by oppoſing <hi>Glory</hi> to <hi>Affliction,</hi> 2. a <hi>weight</hi> of Glory to <hi>light</hi> affliction, 3. an <hi>Eternall</hi> Glory, to <hi>Momentanie</hi> affliction.</p>
+            <p n="2">2 The ſecond is drawn from the <hi>gracious diſpoſition</hi> of the perſons afflicted, wee look not at the things that are ſeen &amp;c. and that you may ſee the diſpoſalls of grace are moſt rationall, hee annexeth a verie good <hi>reaſon</hi> why the Saints <hi>look not at the things that are ſeen &amp;c. For the things that are ſeen are temporall.</hi> I begin with the firſt, and the <hi>Doctrine</hi> upon which I ſhall inſiſt is this.</p>
+            <q>Our afflictions work our Glory.</q>
+            <p>Other things I ſhall touch upon in the uſe of this. <hi>Our Afflictions</hi> (I ſay) <hi>Work our Glory.</hi> A ſtrange pa<g ref="char:EOLhyphen"/>radox! an abſolute riddle! which fleſh and blood can never prove an Oedipus to unfold. what? can bit<g ref="char:EOLhyphen"/>terneſs work ſweetneſs? can clouds and gloomyneſs
+<pb n="5" facs="tcp:36906:4"/>work ſerenity and clearneſs? can ſtorms and tempeſts work a bleſſed calm? can darkneſs work light? can death work life? can hell work heaven? ſo it is; ſo in effect our Apoſtle affirmeth: <hi>Our affliction worketh our Glory.</hi> To a clear apprehenſion of this truth, I ſhall endeavour to lead you by ſeverall ſteps.</p>
+            <p n="1">1.
+<note place="margin">Loquitur tan<g ref="char:EOLhyphen"/>tum de afflicti<g ref="char:EOLhyphen"/>one filiorum Dei <hi>Hemingius.</hi>
+               </note> They are only the <hi>Saints afflictions</hi> that work their glory. As for the <hi>Wicked,</hi> affliction cometh up<g ref="char:EOLhyphen"/>on them armed with the ſting of divine vengeance, and it worketh <hi>not glory,</hi>
+               <note place="margin">Impiorum af<g ref="char:EOLhyphen"/>flictio veluti praeludium eſt ad aeterna ſup<g ref="char:EOLhyphen"/>plicia, niſi refi<g ref="char:EOLhyphen"/>piſcant. idem.</note> but <hi>ſhame and confuſion for them.</hi> I verily beleev there bee many poor ſouls that fall under this ſad deluſion; they think that becauſ they ſuffer <hi>affliction</hi> here, they ſhall not incur <hi>damnati<g ref="char:EOLhyphen"/>on</hi> hereafter. Surely, ſay theſe fools in their heart, God is more mercifull than to inflict a double hell upon us: to whom I would reply, ſurely God is more pure, holy, and righteous than to admit an impenitent, unbe<g ref="char:EOLhyphen"/>leeving ſinner into heaven. It is a mercie far exceeding thy deſert,
+<note place="margin">Rom. 2.4.</note> that God hath reprieved thee from hell ſo long: <hi>Knoweſt thou not (O man) that his patience and long ſuffering leadeth thee to repentance?</hi> the which if thou hardeneſt thy heart againſt, continuing in thy ſin and unbelief, all thy ſufferings here, if they were ten thouſand times more, ſhall not ſave thee from hell hereafter. It may bee you will ſay,
+<note place="margin">Doubt.</note> it is confeſſed that the wicked have no part nor lot in the comfort of this doctrine; but may it not bee doubted whether the afflictions of all the Saints ſhall work their Glory? is this a general privilege? or is it Paul's Peculiar? or ſuch eminent Chriſtians as hee was? if wee ſhould
+<pb n="6" facs="tcp:36906:5"/>ſuffer for Chriſt, for the Goſpell, for righteouſneſs, then might our afflictions work our Glory: but <hi>non cuivis contingit.</hi> It is not vouchſafed to everie one ſo to ſuffer.</p>
+            <p>Wee need go no further than the text for the reſolution of this doubt:
+<note place="margin">Reſol.</note> The Apoſtle ſaith not <hi>My</hi> affliction worketh <hi>for mee;</hi> but <hi>our</hi> afflictions work <hi>for us.</hi> Hee excludeth not <hi>any</hi> believer from the like comfortable effect of affliction <hi>with himſelf.</hi> All the Saints may challenge a ſpeciall proprietie in affliction;
+<note place="margin">1 Cor. 3.22.</note> according to their charter they may ſay, <hi>all things are ours:</hi>
+               <note place="margin">Phil. 1.29.</note> and as for <hi>ſufferings</hi> they are expreſly ſet down as <hi>a part of the portion</hi> which Chriſt hath bequeathed them: <hi>To you it is given not only</hi> to believ, <hi>but alſo to ſuffer:</hi>
+               <note place="margin">Rom. 8.28.</note> and with the <hi>portion</hi> hee alwaies giveth <hi>grace</hi> to improve it:
+<note place="margin">Heb. 12.11.</note> hence <hi>all things work together for our good:</hi> and our <hi>chaſtiſements yield us the peaceable fruit of righte<g ref="char:EOLhyphen"/>ouſneſs:</hi> ſweet fruit may ſpring from a bitter root.</p>
+            <p n="2">2. It is not from the <hi>nature</hi> of affliction it ſelf, that glory is wrought by it for the Saints: alas, what can affliction do of it ſelf? it cannot work a man's <hi>conver<g ref="char:EOLhyphen"/>ſion,</hi> much leſs can it work a man's <hi>Glorification;</hi> it can<g ref="char:EOLhyphen"/>not <hi>open the heart</hi> to God, yea rather it <hi>exaſperate's, and ſhut's the heart</hi> againſt God; how then can it open <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> to man? The <hi>Ordinances</hi> are othergates things, than afflictions are: yet it is not in them, of themſelvs, to ſave us.</p>
+            <p n="3">3.
+<note place="margin">Non debetur afflictionibus noſtris gloria quaſim erces meritis <hi>Muſe.</hi> in loe.</note> It is not from <hi>the merit</hi> of affliction that it work<g ref="char:EOLhyphen"/>eth our Glory: for the Apoſtle preſent's it not as an <hi>un<g ref="char:EOLhyphen"/>certain opinion,</hi> but as an <hi>undoubted Concluſion,</hi> that there is no compariſon between our affliction &amp; our Glory.
+<pb n="7" facs="tcp:36906:5"/>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I reckon</hi> ſaith hee Rom. 8.18. <hi>I that have taſted both of preſent ſufferings, &amp; of future Glory, I reckon that the ſufferings of this preſent life, are not worthy to bee compared to the Glory that ſhall bee revealed in us.</hi> What is a ſtorm in our voiage to the infinitely rich treaſure wee ſhall gain at our landing?
+<note place="margin">Non tanti ſunt afflictiones ad pondus gloriae collatae quanti aquae guttula immenſo pela<g ref="char:EOLhyphen"/>go. <hi>idem ibid.</hi>
+               </note> what are the waters of this land<g ref="char:EOLhyphen"/>flood, though they ſwell never ſo high, to that Ocean of bleſſedneſs wherein wee ſhall bee ſwallowed up? what is a cloud to the Sun? Though at preſent it darken the face of our whole horizon: what is preſent light, momentany affliction, to the future weight of Glory? here is nothing then that our Romiſh Sophiſts can ra<g ref="char:EOLhyphen"/>tionally improve to the eſtabliſhment of Merit.</p>
+            <p n="4">4 Afflictions may bee ſaid to work our Glory,
+<note place="margin">ità <hi>Calvinus.</hi> ità <hi>Beza.</hi> &amp; <hi>Heming:</hi> ſignificatur quo itinere ad gloriam perveniatur Pſal. 84.6.</note> as they are the <hi>unavoidable way,</hi> that we muſt paſs through to Glory, <hi>the way</hi> to Canaan lyeth through the red ſea, and a vaſt howling wilderneſs; <hi>the way</hi> to Zion lyeth through the valley of Baca, that is, of <hi>Mulberry-trees,</hi> which delighting in a drie ſoyl, that place by reaſon of drought, became (as the Greek render's it) a valley of tears to the weary, fainting paſſenger: and really our life is a very Baca, a valley of tears. That valley the Pſalmiſt ſpeake's of was not ſo thick ſet with <hi>Mulberry<g ref="char:EOLhyphen"/>trees,</hi> as our life with <hi>difficulties,</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theod. in pſalm.</note> which wee muſt paſs through, before wee can arrive at the heavenly Mount. <hi>through tribulation,</hi>
+               <note place="margin">Act. 14.22.</note> and much tribulation (it is not wee <hi>may,</hi> but) we <hi>muſt</hi> enter into the kingdom of heaven: <hi>Straight is the gate and narrow is the way that leadeth unto life:</hi> if wee decline the Croſs we ſhall miſs the Crown:
+<note place="margin">Mat. 7.14. Lu: 24.26.</note> Chriſt himſelf went to heaven no other way; <hi>Hee ſuffered and ſo entred into his Glory: He drank of the brook
+<pb n="8" facs="tcp:36906:6"/>in the way, therefore did Hee lift up his Head.</hi> Pſal. 110. laſt verſ.</p>
+            <p n="5">5. Afflictions <hi>for Chriſt</hi> (which are mainly intended here) may bee ſaid to work our Glory, not only be<g ref="char:EOLhyphen"/>cauſ they are <hi>the ordinary way,</hi> through which wee muſt paſs to Glory; but becauſ Glory is <hi>a neceſſary conſe<g ref="char:EOLhyphen"/>quent</hi> of affliction for Chriſt: a man may ſomtimes be in the way to this or that place, and yet never com there: but in the way of affliction for Chriſt wee ſhall never tire; wee ſhall never com ſhort: when the ſeed of the word hath taken ſuch root, that the ſcorch<g ref="char:EOLhyphen"/>ing of the Sun will not cauſ it to wither away, but ra<g ref="char:EOLhyphen"/>ther ripeneth it, you may bee ſure there is ſomthing for the barn.</p>
+            <p>Mat. 5.11. <hi>Bleſſed are you when men ſhall revile you, and perſecute you, and ſhall ſay all manner of evill againſt you falſly for my ſake. Rejoice and bee exceeding glad, for great is your reward in Heaven.</hi> I would have you to take great notice of that little word, <hi>is;</hi> it ſignifieth as much as if hee had ſaid, you that ſuffer in this way, you are as ſure of heaven, as if you were in heaven already. By the way forget not this, That <hi>Hypocrites</hi> and wicked per<g ref="char:EOLhyphen"/>ſons cannot bee truly ſaid to ſuffer for Chriſt. They may pretend to it,
+<note place="margin">See this whole buſineſs excel<g ref="char:EOLhyphen"/>lently ſtated by Mr <hi>An: Bur<g ref="char:EOLhyphen"/>geſs</hi> in ſpir. refin: ſerm. 24.</note> and wee may <hi>imagine</hi> they do ſo, but <hi>really</hi> there is no ſuch thing: <hi>Judas</hi> no doubt ſuf<g ref="char:EOLhyphen"/>fered much with the reſt of the <hi>Apoſtles.</hi> but who dare ſay his <hi>end</hi> was <hi>as pure,</hi> his <hi>affections</hi> as <hi>holy</hi> in his ſufferings, as theirs were? no, no, it was his <hi>intereſt</hi> that hee ſuffered for: Hee had an <hi>office,</hi> hee dearly liked and loved, hee bore the <hi>bag;</hi> hee could bee content to
+<pb n="9" facs="tcp:36906:6"/>ſuffer much rather than let go that: hee was not likely to gain the like preferment in any other ſociety: it was the <hi>bag,</hi> not <hi>Chriſt</hi> or his <hi>trueth</hi> that hee ſuffered for. The like may wee ſay of all hypocrites, but the time will com when they ſhall bee <hi>uncaſed,</hi> and thoſe, that have too good an opinion of them for the preſent, <hi>undeceived.</hi>
+            </p>
+            <p>Now I ſuppoſe you apprehend the point, in a good meaſure cleared; yet mee thinks the <hi>Emphaſis</hi> of the word is not drawn forth:
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> it is the ſame word uſed by the Apoſtle in that famous exhortation, Phil. 2.12. <hi>Work out your own ſalvation.</hi>
+               <note place="margin">
+                  <hi>Com:</hi> in loc.</note> It carrieth in it ſomthing of <hi>efficiencie:</hi> the <hi>meritorius efficiencie</hi> which <hi>Aquinas</hi> and <hi>Eſtius</hi> pitch upon, wee have juſtly rejected: (and to do <hi>Eſtius</hi> no wrong upon the matter hee doth reject it himſelf. O how great is the prevalencie of trueth,
+<note place="margin">Non ex natu<g ref="char:EOLhyphen"/>râ paſſionum, ſed ex Dei vo<g ref="char:EOLhyphen"/>luntate &amp;c.</note> her adverſaries are forced to ſpeak for her many times, when they are deſigned by the <hi>Father</hi> of lies, and their own <hi>carnall intereſt</hi> to ſpeak againſt her.) nor can wee attribute to it (which would bee more than that) <hi>the principall efficiencie,</hi>
+               <note place="margin">Epheſ. 2.5.</note> for that is only the free grace of God; <hi>By grace are yee ſaved;</hi> but an <hi>inſtrumentall effi<g ref="char:EOLhyphen"/>ciencie</hi> we may with ſafety, yet here too wee muſt take it as an inſtrument of the <hi>meaner ſort</hi> (for who knoweth not that there may bee inſtruments of divers ſorts, uſe<g ref="char:EOLhyphen"/>full in a different degree to the producing of the ſame work) for faith is the prime inſtrument,
+<note place="margin">Epheſ. 2.8.</note> 
+               <hi>By grace are yee ſaved, through faith;</hi> but (I ſay) an inſtrumentality in ſom ſort wee <hi>may,</hi> wee <hi>muſt</hi> grant it, how elſe can it bee ſaid to <hi>work?</hi>
+            </p>
+            <p n="6">6. Therefore affliction may bee ſaid to work Glo<g ref="char:EOLhyphen"/>ry,
+<pb n="10" facs="tcp:36906:7"/>
+               <hi>as an inſtrument in the hand of grace,</hi>
+               <note place="margin">praeparantur ad beatam re<g ref="char:EOLhyphen"/>ſurrectionem communibus humani gene<g ref="char:EOLhyphen"/>ris miſeriis <hi>Calv.</hi> 1. 1 Pet. 2.4. Rev. 3.12. bonos probat purificat, eli<g ref="char:EOLhyphen"/>quat <hi>Aug.</hi> de <hi>Civi.</hi> lib. 1. cap. 8.</note> whereby God fit's and prepare's us for <hi>Glory.</hi> The word amongſt the ſeaventy Interpreters, ſignifieth <hi>(rem expolire) to ſmooth or poliſh a thing;</hi> wee are the <hi>living ſtones</hi> which God ſmootheth and poliſheth with affliction, that hee may make us <hi>pillars</hi> in his houſ. With affliction he fi<g ref="char:EOLhyphen"/>leth off our ruſt; purifieth us from our droſs; beateth us out of the huſk; racketh us from our lees; purgeth us from vicious humors: in a word, without afliction wee can hardly bee ſanctified here, and then I am ſure wee can hardly bee ſaved hereafter. This being the main thing, it would bee ſpoken to with more diſtinct<g ref="char:EOLhyphen"/>neſs therefore.</p>
+            <p n="1">1. Afflictions have a work in reference to <hi>the world,</hi> from which they wean us; juſt, as the tender mother layeth wormwood upon her nipples, when ſhe would wean her child, ſo our heavenly Father embitter's the breaſts of our earthly comforts, that wee may not overlove them.</p>
+            <p n="2">2. Afflictions have a work in reference <hi>to ſin,</hi> 1. they diſcover ſin,
+<note place="margin">Jo. 9.6. Oculos quos culpa clau<g ref="char:EOLhyphen"/>dit, poena ape<g ref="char:EOLhyphen"/>tit. <hi>Greg.</hi> Job. 36.8.9.</note> they are like the <hi>clay and ſpittle,</hi> which our bleſſed Lord made uſe of in opening the eyes of the blind man, pain openeth thoſe eyes, which ſin ſhutteth. <hi>if they be bound in fetters, and holden in cords of affliction, then hee ſheweth them their work, and their tranſgreſſions, that they have exceeded.</hi> 2. <hi>they restrain ſin:</hi> they are as an hedg of thorns in the way of ini<g ref="char:EOLhyphen"/>quity. <hi>I will hedg up thy way with thorns,</hi> Hoſ. 2.6. what <hi>way,</hi> but the way of their ſinfull converſation; with what <hi>thorns,</hi>
+               <note place="margin">ſpinas vocat calamitatum</note> but ſom hard, ſharp, heart-piercing calamities? theſe God bring's thick and threefold up<g ref="char:EOLhyphen"/>on
+<pb n="11" facs="tcp:36906:7"/>upon an obſtinate ſinner:
+<note place="margin">ingentem du<g ref="char:EOLhyphen"/>ritiem: neque inquit, ſpina, ſed ſpinis, ut multitudinem pungentium dolorum dete<g ref="char:EOLhyphen"/>geret. <hi>Guadalup</hi> in loc.</note> thus God hedgeth in the way of the <hi>proud</hi> with ſom ſhamefull diſhonor: the way of the <hi>covetous</hi> with loſſes in his eſtate: the way of the <hi>prodigall</hi> with extream poverty: the way of the <hi>drunkard</hi> and adulterer with decay in their reputation, wealth, health, ſtrength: or it may bee hee ſendeth ſom more ſpirituall afflictions, and hedgeth up the way of all theſe <hi>ſinners</hi> with the pricking, ſtinging horrors of an accuſing conſcience.</p>
+            <p n="3">3. <hi>They convert us from ſin:</hi> how many can ſay with David, <hi>it is good for mee to bee in trouble,
+<note place="margin">Pſal. 119.71. Pſal. 119.67.</note> that I may learn thy righteous judgements!</hi> and again, <hi>before I was afflicted I went aſtray: but now have I kept thy word.</hi>
+               <note place="margin">Eze. 34.23. Jo. 10.11. 1. Pet. 2.25.</note> God is plea<g ref="char:EOLhyphen"/>ſed to ſtyle himſelf the <hi>ſhepheard</hi> of his people, Chriſt is the <hi>great</hi> and good <hi>ſhepheard.</hi> Now affliction is his <hi>hook,</hi> or rather his <hi>Dog,</hi> which, when wee liſten not to his <hi>whiſtle,</hi> hee ſendeth out to fetch us in from our wanderings. Hee had whiſtied long to <hi>Manaſſeh,</hi> and hee regarded not, at laſt he ſendeth out his <hi>Dog,</hi> cauſ<g ref="char:EOLhyphen"/>eth a <hi>great affliction</hi> to faſten upon him, and that re<g ref="char:EOLhyphen"/>claimeth him.</p>
+            <p n="3">3. Afflictions have a work in reference to our <hi>gra<g ref="char:EOLhyphen"/>ces, as Faith, Patience, Self-deniall, humilitie:</hi> all which were exercized by them, when it was revealed to St <hi>John,</hi> that the <hi>beast</hi> having ſeaven heads and ten horns (<hi>Rev.</hi> 13. v. 7) had power given him to make Warr with the Saints, and to overcom them; (which ſom apply to thoſe many bloody perſecutions of the Chriſtian Church under the heatheniſh Romane Empire) imme<g ref="char:EOLhyphen"/>diately hee cries out (v. 10.) <hi>Here is the patience and Faith of the Saints,</hi> as if hee had ſaid, here, here is
+<pb n="12" facs="tcp:36906:8"/>matter for thoſe excellent graces to bee exercized a<g ref="char:EOLhyphen"/>bout.</p>
+            <p n="4">4. Afflictions have a work in reference to <hi>our duties,</hi> unto which they quicken us; for inſtance; when our prayers are empty, cold, formall, and not very plenti<g ref="char:EOLhyphen"/>full, God ſendeth an affliction, and that maketh us ſeek him both <hi>early</hi> and <hi>earnestly:</hi> when perſons are in a <hi>ſwoun,</hi> wee nip, and pinch them; caſt cold water in<g ref="char:EOLhyphen"/>to their faces, and make a ſmoak under their noſes, and this bringeth them to themſelvs again; thus when wee are in <hi>a ſpirituall ſwoun,</hi> God ſendeth ſom affliction or other, and that inſtantly fetcheth our breath again, and maketh us crie out <hi>Lord help.</hi> A moſt remarkable place for this wee have Is. 26.16. <hi>Lord in trouble have they viſited thee they poured out a praier when thy chaſte<g ref="char:EOLhyphen"/>ning was upon them:</hi>
+               <note place="margin">Mr <hi>Jer. Burr.</hi> in his <hi>Moſes</hi> choice.</note> they did but <hi>drop</hi> a prayer before (as one excellently gloſſeth it) but now they <hi>pour</hi> out a prayer; and now it is a <hi>prayer</hi> indeed, which they pour out:
+<note place="margin">Expertus lo<g ref="char:EOLhyphen"/>quor.</note> a prayer full of life, ſpirit, efficacie: a prayer that carrieth cut the verie heart and ſoul of a man to God with it.</p>
+            <p n="5">5. Afflictions have a work in reference to <hi>Death,</hi> to which they reconcile us,
+<note place="margin">Eccleſiaſtic. cap. 42.1.2.</note> and make us ſtand with o<g ref="char:EOLhyphen"/>pen arms ready to imbrace it. <hi>O death how bitter is thy remembrance, to him that liveth at eaſe in his poſſesſions, unto the man that hath nothing to vex him, and that hath proſperitie in all things!
+<note place="margin">See Dr <hi>Tuckny</hi> in his death diſarmed ſec. 3</note> O death acceptable is thy ſentence unto the needy.</hi> When a man hath the world at his will, hee is loth to leave it; when hee is warm <hi>here</hi> in a wel-feathered neſt, he hath no minde to bee on the wing to flie <hi>hence;</hi> but when hee is plucked out from
+<pb n="13" facs="tcp:36906:8"/>his warm neſt, and his feathers are diſperſed, when he is placed with <hi>Job</hi> upon the dunghil, with <hi>Jeremie</hi> in the dungeon. O then wellcom death!
+<note place="margin">Job. 14.13.</note> 
+               <hi>who will hide me in the Grave?</hi>
+            </p>
+            <p n="6">6 Afflictions have a work in reference to our Glo<g ref="char:EOLhyphen"/>ry, not only <hi>preparing us</hi> for it by all the fore-mentio<g ref="char:EOLhyphen"/>ned particulars, but alſo <hi>improveing it,</hi> and that both <hi>directly</hi> and <hi>accidentally,</hi> 1. directly: the doctrine of <hi>degrees of Glory</hi> is ſomthing controverted in theſe later times, among <hi>Divines</hi> of the reformed way.
+<note place="margin">
+                  <hi>Zanchius.</hi> Mar<g ref="char:EOLhyphen"/>tyr. <hi>Camero.</hi>
+               </note> I finde <hi>One</hi> poſitively aſſerting it; <hi>another</hi> propounding arguments on both ſides, and then modeſtly diſmiſſing it; a <hi>third</hi> abſolutely determining againſt it. His reaſons let others examine; for my part I cannot ſee any <hi>in<g ref="char:EOLhyphen"/>conveniencie</hi> attending, nor any <hi>advantage</hi> given to the adverſary by the firſt opinion. Now ſuppoſing that there are degres of Glory, I do verily believ, that ſuch as both do well, and ſuffer for doing well,
+<note place="margin">Sic patri coe<g ref="char:EOLhyphen"/>leſti viſum eſt, ut Doctores plus laborantes faciat magis fulgere aliis. <hi>Flacius</hi> ad loe.</note> ſhall ſhine brighteſt in Glory: the hardeſt ſervice ſhall have the higheſt recompence however. 2. Our Glory cannot but receiv an <hi>accidentall improvement</hi> from our afflicti<g ref="char:EOLhyphen"/>ons; and the ſharper the labor, the ſweeter the reſt muſt needs bee. When a man commeth out of the cold, piercing, cutting aër, into a cloſe warm room, it much advanceth the comfort of it: when a man is taken out of a dark dungeon, it is much the more plea<g ref="char:EOLhyphen"/>ſant to him that his eyes behold the light of the Sun; in like manner when a man is taken from afflictions to Glory, it will then bee Glory indeed. Thus have I cleared the Doctrine. Tell mee now, beloved,
+<note place="margin" type="runSum">Uſe.</note> is not
+<pb n="14" facs="tcp:36906:9"/>here a ſolid argument to excite our patience, a firm ground of comfort in all our afflictions? who would not endure cutting for ſuch a cure? who would not be content to ſayl through a troublous ſea, for the gain<g ref="char:EOLhyphen"/>ing ſuch a treaſure? who would not readily ſwallow the bittereſt pill to procure eternall health? when you fret and foam under affliction, do yee not <hi>forget</hi> your ſelvs,
+<note place="margin">Heb. 12.5.</note> and the <hi>Conſolations</hi> the Scriptures affoard you? or do not theſe <hi>conſolations ſeem ſmall</hi> unto you?
+<note place="margin">Job. 15.11.</note> the one argueth your <hi>negligence,</hi> the other your <hi>ungrate<g ref="char:EOLhyphen"/>fullneſs;</hi> both, your extream <hi>vanity</hi> and <hi>folly.</hi>
+            </p>
+            <p>Conſider I pray you, 1. what the affliction is that worketh your Glory: 2. what the Glory is that is wrought by affliction.
+<note place="margin">1 Conſiderati<g ref="char:EOLhyphen"/>on.</note> Firſt conſider what your af<g ref="char:EOLhyphen"/>fliction is that worketh your Glory:
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Cooper</hi> on Rom.</note> is it any thing but (as the word importeth) a <hi>preſſure?</hi> it is indeed God's wine-preſs, you are his precious <hi>wine-berries:</hi> and what doth the grape loſe by the preſſing, beſides a ſkin of no value? as for the noble blood thereof, it is carefully preſerved, and preferred to higher ſervices: it com's to be ſerved up in Chriſtall, and run's in the veins of Princes.
+<note place="margin">Tribula eſt in<g ref="char:EOLhyphen"/>ſtrumentum quo fruges maturae in a<g ref="char:EOLhyphen"/>rea teruntur. <hi>Lu.</hi> Vives in Aug. de civ. lib 1. c. 8.</note> Our Engliſh word <hi>Tribulation,</hi> ſeemeth to mee to bee of <hi>Latine</hi> extraction; it cometh from a word that ſignifieth a <hi>threſhing inſtrument:</hi> what doth the wheat loſe by the flail beſides the huſk? affliction may preſs and drive us out of our houſes, eſtates, coun<g ref="char:EOLhyphen"/>tries,; the verie worſt it can do is but to preſs our ſouls out of our bodies; and what are all theſe things but films and husks of no value? the wine, the wheat, the precious and immortall ſoul, when it is quite ſtript of
+<pb n="15" facs="tcp:36906:9"/>theſe husks, is in a better condition than ever it was before. You ſee what affliction is in it ſelf; now con<g ref="char:EOLhyphen"/>ſider it in it's adjuncts 1. It is <hi>light</hi> affliction,
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſo <hi>Muſculus.</hi>
+               </note> 
+               <hi>light as a feather, exceeding light.</hi> Light to what it <hi>might</hi> be: our heavenly Father, <hi>might</hi> (it hee ſo pleaſed) double his ſtrokes, hee might throw away <hi>rods</hi> &amp; chaſtize us with <hi>ſcorpions.</hi> Againe, it is light to what wee have <hi>deſerved</hi> it ſhould bee: any thing leſs than hel is leſs than wee have deſerved:
+<note place="margin">
+                  <hi>Euſebius</hi> Nie<g ref="char:EOLhyphen"/>rem bergius de adoratione in ſpi. lib. 2. cap. 18.</note> if a <hi>traitour</hi> that hath deſerved the <hi>gib<g ref="char:EOLhyphen"/>bet,</hi> ſhould bee made only ſmart a little with a <hi>whip,</hi> or ſuffer ſom ſmall pecuniary mulct, would hee not look upon his puniſhment as <hi>light?</hi> thou art a traitour, O ſinner, thou haſt rebelled againſt heaven, fire and brim<g ref="char:EOLhyphen"/>ſtom may juſtly bee thy portion for for ever: if there<g ref="char:EOLhyphen"/>fore <hi>God judge</hi> thee now, that hee may not <hi>condemn</hi> thee with the world hereafter, haſt thou not cauſe to look upon this as a very light affliction? yet further; It is light to the <hi>ſpirit,</hi> though burdenſom to the <hi>fleſh;</hi> and that upon a double account. 1. becaus wee ſuffer for <hi>Chriſt</hi> whom wee love in ſincerity; and love maketh hard things eaſie, heavy things light.</p>
+            <p>But my ſufferings, may ſom good man ſay,
+<note place="margin">Du.</note> are not for Chriſt; they are for ſin.</p>
+            <p>Yet then are they not intollerable;
+<note place="margin">Sol. Heb. 12.7.</note> they are layd upon thee by the hand of a <hi>Father,</hi> and that for thy good, that thou mayeſt bee brought out of love with thy ſin, and bee made <hi>partaker of his holineſs.</hi>
+               <note place="margin">v. 10.</note> In ſuch a caſe thou ſhouldeſt bee <hi>ſorrowfull</hi> for thy provocati<g ref="char:EOLhyphen"/>on; <hi>ſenſible</hi> of his diſpleaſure; <hi>but</hi> there is no reaſon why thou ſhouldeſt either <hi>fret</hi> or <hi>faint</hi> under his hand:
+<pb n="16" facs="tcp:36906:10"/>
+               <hi>Jeremiah's</hi> frame would much better becom thee;
+<note place="margin">Lam. 3.31.32.33.</note> 
+               <hi>I will bear the indignation of my God, becauſ I have ſinned againſt him. The Lord will not caſt off for ever: but though hee cauſe grief, yet will hee have compaſſion accor<g ref="char:EOLhyphen"/>ding to the multitude of his mercies. For hee doth not af<g ref="char:EOLhyphen"/>flict willingly nor griev the children of men.</hi> 2. Becauſ wee ſuffer <hi>with Christ,</hi> who is <hi>ſenſible</hi> of all our ſuffe<g ref="char:EOLhyphen"/>rings, will <hi>ſupport</hi> us under them, and in due time <hi>deli<g ref="char:EOLhyphen"/>ver</hi> us from them; <hi>Hence though wee bee troubled on e<g ref="char:EOLhyphen"/>very ſide, wee are not diſtreſſed; though wee are perplexed, yet wee are not in deſpair; though wee are perſecuted, yet wee are not forſaken; though wee bee caſt down, yet wee are not deſtroyed</hi> 2. Cor. 4.8.9.</p>
+            <p n="2">2. It is affliction that <hi>endureth but a moment;</hi> it is called elſwere the afliction of <hi>this preſent time:</hi>
+               <note place="margin">Rom. 8.18. 1. Cor. 7.29. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and the Apoſtle telleth us <hi>time is but ſhort,</hi> contracted, wrapt up like the ſails of a ſhip when ſhe com's near to harbour; and therefore thus hee argueth, <hi>thoſe that weep ſhould bee as if they wept not.</hi> I remember what <hi>Athanaſius,</hi> the <hi>jewell</hi> of his age, ſaid touching the Arrian perſecution that it was <hi>nubecula citò tranſitura, a cloud that would ſoon bee blown over:</hi> and what our <hi>jewell,</hi> whom I may juſtly tearm the <hi>Athanaſius</hi> of his age,
+<note place="margin">Non durabunt</note> ſaid of thoſe Ma<g ref="char:EOLhyphen"/>rian dayes <hi>that they would not laſt long,</hi> the like may we ſay of our afflictions. And that this troublous ſtream will ſoon be dried up, wee may aſſure our ſelvs, whether wee conſider</p>
+            <p n="1">1. <hi>The ſpring</hi> from whence they riſe, that is the wrath of God; but a Father's wrath with his childen will not laſt long Iſa. 54.7.8. <hi>For a ſmall mo<g ref="char:EOLhyphen"/>ment
+<pb n="17" facs="tcp:36906:10"/>have</hi> I <hi>forſaken thee, but with great mercies will I gather thee, In a little wrath I hid my face from thee, for a moment; but with everlaſting kindneſs I will have mer<g ref="char:EOLhyphen"/>cie on thee, ſaith the Lord thy redeemer.</hi>
+            </p>
+            <p n="2">2. <hi>The channell</hi> in which they run: it is the life of man: and <hi>what is our life?
+<note place="margin">Jam. 4.14.</note> it is even a vapor that appea<g ref="char:EOLhyphen"/>reth for a little time and then vaniſheth away.</hi> There can<g ref="char:EOLhyphen"/>not bee long affliction in a ſhort life. Thus much of the firſt conſideration.</p>
+            <p n="2">2. Conſider the Glory wrought by your affliction.
+<note place="margin">2. Conſidera<g ref="char:EOLhyphen"/>tion.</note> 1. it is <hi>Glory ſimply,</hi> and <hi>abſolutely.</hi> No glory to bee compared with it.
+<note place="margin">
+                  <hi>Gerard</hi> in loc. Com: de vitâ aeter. Coelum non patitur hyper<g ref="char:EOLhyphen"/>bolen.</note> It is ſuch a glory as admitteth no <hi>hyperbole.</hi> 2. It is a <hi>weight of glory:</hi> and that for the <hi>preciouſneſs</hi> of it. It is very rare: few there bee that finde it. And it can never bee bought too dear. Gold, wee ſay, may, but glory cannot.
+<note place="margin">Dr <hi>Ha<g ref="char:cmbAbbrStroke">̄</g>mond</hi> in his Annotati<g ref="char:EOLhyphen"/>ons upon the place. Hic <hi>Grotius</hi> in loc. 1 Pet. 1.</note> For the <hi>plenteouſneſs</hi> of it, each Soul ſhall bee a veſſel brim full of glory. For the <hi>ſubſtantialneſs</hi> of it, it is not like the glory of this world, <hi>flaſhy</hi> and <hi>frothy;</hi> but it is <hi>ſolid</hi> and <hi>ſubſtanti<g ref="char:EOLhyphen"/>all,</hi> a <hi>Kingdome that cannot bee moved,</hi> a <hi>Crown that fa<g ref="char:EOLhyphen"/>deth not away,</hi> an <hi>inheritance incorruptible.</hi> Hence: 3. It is called an <hi>eternall</hi> weight of glory. O Eternity! a vaſt gulph that ſwalloweth up all expreſſions, al con<g ref="char:EOLhyphen"/>ceptions! <hi>eye hath not ſeen, nor hath ear heard, nor hath it entered into the heart of man to conceiv what is the ſur<g ref="char:EOLhyphen"/>paſsing excellencie</hi> of that glory which the afflictions of the Saints work for them.</p>
+            <p>O vain worldlings! that purſue,
+<note place="margin">Concluſion.</note> like Children emp<g ref="char:EOLhyphen"/>ty bubbles, and neglect ſolid and ſubſtantiall comforts. O fools! that chuſe ſin rather than affliction, when
+<pb n="18" facs="tcp:36906:11"/>they ſee plainly that the <hi>pleaſures of ſin are but for a ſea<g ref="char:EOLhyphen"/>ſon,</hi>
+               <note place="margin">Heb. 11.25.</note> &amp; that the glory of affliction holdeth out to eterni<g ref="char:EOLhyphen"/>ty.</p>
+            <p>Do you (O yee Saints and ſervants of the moſt high God) do you <hi>think on theſe things:</hi>
+               <note place="margin">Phil. 4 8. 1. Tim. 2.25.</note> take a daily proſpect of your heavenly glory, carry this <hi>Text</hi> in your boſome, as a cordiall againſt your fainting fits: and if the <hi>Text</hi> bee too much, keep but one word in your minde,
+<note place="margin">Unâ voce quâ Quirites cos pro militibus appellârat, fa<g ref="char:EOLhyphen"/>cilè circume<g ref="char:EOLhyphen"/>git, &amp; flexit <hi>Suet<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> in <hi>Juli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> cap. 70.</note> to wit, <hi>Glory. Caeſar</hi> ſtilled the tumults of his Soldiers with one word, <hi>Quirites.</hi> this one word <hi>Glory</hi> ſeriouſly thought upon, will ſtill a legion of tu<g ref="char:EOLhyphen"/>multuous thoughts within you. <hi>Glory</hi> will anſwer all afflictions: if your affliction bee loſs of reputation, <hi>Glory</hi> will honor you with a new name: if your affli<g ref="char:EOLhyphen"/>ction bee loſs of goods, <hi>Glory</hi> will enrich you, and that with durable riches; if loſs of friends, <hi>Glory</hi> will bring you to your godly friends again; and above all to your beſt friend <hi>Jeſus Chriſt;</hi> if it bee hunger, <hi>Glory</hi> will feed you with hidden Manna: if it bee nakedneſs, <hi>Glory</hi> will cloathe thee with a long white robe: if ſick<g ref="char:EOLhyphen"/>neſs, <hi>Glory</hi> will reſtore thee to perpetuall health: if ſin (which is really the greateſt affliction to a Saint) <hi>Glory</hi> will preſent thee perfect in Holineſs. In a word what comfort can bee wanting to that man; whom <hi>Glory</hi> hath lodged in the boſome of God? I have done with the firſt argument in the <hi>Text</hi> drawn from the <hi>comfor<g ref="char:EOLhyphen"/>table effect</hi> of the Saints afflictions: I ſhould come to the ſecond, drawn from the <hi>gratious diſpoſition</hi> of the Saints, <hi>wee look not at the things that are ſeen;</hi> but I have already ſpent too much upon your patience.</p>
+            <pb n="19" facs="tcp:36906:11"/>
+            <p>I need not crave your leave to ſpeak a word or two of the <hi>Worthie Gentlewoman,</hi> whoſe mournfull herſ wee ſee before us; I know you expect it, I am ſure ſhee de<g ref="char:EOLhyphen"/>ſerved it. <hi>A good woman ſhee was,</hi> and that is com<g ref="char:EOLhyphen"/>mendation enough for any mortall, ſeeing the word of God which endureth for ever, is honored with no higher Epithet, than the <hi>good word</hi> of God.</p>
+            <p>Shee was known to mee onely in her Widow<g ref="char:EOLhyphen"/>hood, and therefore I ſhall draw all my ſpeech from a paſſage of the Apoſtle <hi>Paul</hi> concerning widowes 1. <hi>Tim.</hi> 5.3. <hi>Honor Widowes that are Widowes indeed.</hi> Mrs <hi>Eliſabeth Harvey</hi> was a <hi>widow indeed,</hi> ſhee truſted in God, yet ſo as not to tempt him, ſhee lookt not upon earthly things with an eye of confidence; but ſhee did wiſely look after earthly things with an eye of provi<g ref="char:EOLhyphen"/>dence. <hi>Chriſtianity</hi> and <hi>good huſwifery</hi> may well ſtand together yea, <hi>if any provide not for their own they are worſ than Infidels.</hi>
+            </p>
+            <p>
+               <hi>Shee continued in ſupplications and praiers night and day:</hi> her cloſet was morning and evening perfumed with thoſe <hi>ſweet odours.</hi> Shee lived <hi>not delicately</hi> (as many do that are <hi>dead while they live</hi>) but <hi>devoutly,</hi> but <hi>ſoberly,</hi> but <hi>temperately,</hi> and ſo ſhee liveth now ſhe is dead. She <hi>was the wife onely of one man, ſhee was well re<g ref="char:EOLhyphen"/>ported of for good works:</hi> and if the world had buryed them in ſilence, though don without any the leaſt af<g ref="char:EOLhyphen"/>fectation of praiſe, the backs and bowels of the poor that ſhee covered and refreſhed, would have ſpoken for her, and have reproved it's envy. Shee was vigi<g ref="char:EOLhyphen"/>lant and carefull <hi>in bringing up Children,</hi> and bleſſed
+<pb n="20" facs="tcp:36906:12" rendition="simple:additions"/>be God wee see the fruits of it. Shee was very <hi>hoſ<g ref="char:EOLhyphen"/>pitable,</hi> very <hi>humble,</hi> and could bee content to ſubmit to the meaneſt office to which charity directed her: if it had been <hi>to waſh the Saints feet,</hi> I dare ſay ſhee would not have refuſed it.</p>
+            <p>As ſhee lived, ſo ſhee <hi>died in the faith</hi> (which is the commendation given by the Apoſtle to thoſe Antient worthies <hi>Heb.</hi> 11.) the laſt words I heard her utter were theſe, <hi>Lord I believ, help my unbelief.</hi>
+            </p>
+            <p>What remaineth now but that wee bleſs God for her;
+<note place="margin">Prov. 10.7. Pſal. 112.6.</note> and give her the honor due unto her 1. the ho<g ref="char:EOLhyphen"/>nor of <hi>Commemoration. The memory of the just is bleſ<g ref="char:EOLhyphen"/>ſed,</hi>
+               <note place="margin">Heb. 13.7.</note> and <hi>the righteous ſhall bee had in everlaſting remem<g ref="char:EOLhyphen"/>brance.</hi> 2. the honor of <hi>imitation. whoſe faith follow, conſidering the end of their converſation.</hi> To conclude all, I know it is a great affliction, to forgo ſuch a mo<g ref="char:EOLhyphen"/>ther, ſuch a ſiſter, ſuch a friend, ſuch a neighbour: but let this bee our comfort, ſhee hath exchanged <hi>earth</hi> for <hi>heaven;</hi> her body feel's none of thoſe pains, ſickneſſes, weakneſſes, none of all thoſe inconvenien<g ref="char:EOLhyphen"/>ces which our mortall condition is ſubject to; and her Soul feel's that bleſſed <hi>weight of Glory,</hi> which wee all grone for. Shee is gone before, and wee (if wee fol<g ref="char:EOLhyphen"/>low her ſteps) ſhall not bee long after: Haſte, Haſte, to heaven <hi>Come Lord Jeſus,
+<note place="margin">Rev. 22.20.</note> come quickly.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
